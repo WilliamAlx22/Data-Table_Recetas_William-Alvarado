@@ -3,7 +3,7 @@ function Receta1() {
     Swal.fire({
         imageUrl: 'img/Receta1.jpg',
         imageWidth: 1200,
-        imageAlt: 'hermosa'
+        imageAlt: ''
     })
     
 }
@@ -12,7 +12,7 @@ function Receta2() {
   Swal.fire({
       imageUrl: 'img/Receta2.jpg',
       imageWidth: 1200,
-      imageAlt: 'hermosa'
+      imageAlt: ''
   })
   
 }
@@ -21,7 +21,7 @@ function Receta3() {
   Swal.fire({
       imageUrl: 'img/Receta3.jpg',
       imageWidth: 1200,
-      imageAlt: 'hermosa'
+      imageAlt: ''
   })
   
 }
